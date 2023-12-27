@@ -35,6 +35,7 @@
     "next-plausible": "^3.1.4",
     "next-pwa": "^5.6.0",
     "next-themes": "^0.1.1",
+    "node-jose-tools": "^2.0.4",
     "nuka-carousel": "^5.4.0",
     "react": "^18.2.0",
     "react-autosuggest": "^10.1.0",

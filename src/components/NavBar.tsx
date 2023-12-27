@@ -143,7 +143,7 @@ const NavBar = ({ toggleSideNav = 0 }) => {
                 className="ml-2 text-2xl align-middle cursor-pointer select-none"
                 onClick={homeClick}
               >
-                {"troddit"}
+                {"Iman"}
               </h1>
             </Link>
 
